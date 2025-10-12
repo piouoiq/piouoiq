@@ -31,8 +31,7 @@
 </ul>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/piouoiq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/piouoiq" /></a></p><br><br>
+
 <!--
 **piouoiq/piouoiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
