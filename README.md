@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mélissa</h1>
 <h3 align="center">A student Developper at Ada Tech school</h3>
 
-- 🌱 I’m currently learning ** everything needed to become a dev.**
+- 🌱 I’m currently learning **everything needed to become a dev.**
 
 - 👯 I’m looking to collaborate on **inovative projects**
 
