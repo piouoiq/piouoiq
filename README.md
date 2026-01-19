@@ -16,7 +16,7 @@
 
 ## 📈 GitHub stats  
   
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=freezer49&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=piouoiq&show_icons=true&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
